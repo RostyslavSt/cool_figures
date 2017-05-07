@@ -35,5 +35,5 @@
      }
  }
 
- let result = new CoolFigures(1, 1000);
+ let result = new CoolFigures(1, 100000);
  console.log(result.getCoolFigures());
